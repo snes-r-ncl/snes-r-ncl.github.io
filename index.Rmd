@@ -1,0 +1,10 @@
+---
+title: "R ninjas "
+
+---
+
+#Welcome to the Ncl R Ninjas website
+
+We are a group of PGR's and PDRA's in the School of Natural and Environmental sciences at Newcastle university working together to improve our R skills with the ultimate goal of becoming R-ninjas!
+
+#[About us](about.html)
