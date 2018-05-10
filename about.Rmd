@@ -9,4 +9,4 @@ All of our group current group members are listed here, click each members name 
 
 <img src= "images/blank-profile-picture.jpg" style="width:20%; border:10px solid; margin-right: 20px"> 
 
-Joe Bloggs
+#[Louise Mair](LMwebpage.html)
