@@ -3,6 +3,8 @@ title: "R ninjas "
 
 ---
 
+<img src= "images/github-octocat-rninja.png" style="width:30%; border:10px solid; margin-right: 20px" align= "left">
+
 #Welcome to the Ncl R Ninjas website
 
 We are a group of PGR's and PDRA's in the School of Natural and Environmental Sciences at Newcastle University working together to improve our R skills with the ultimate goal of becoming R-ninjas!
