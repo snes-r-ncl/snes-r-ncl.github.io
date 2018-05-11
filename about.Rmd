@@ -8,8 +8,8 @@ title: "About us"
 All of our group current group members are listed here, click each members name to find out more about them
 
 <img src= "images/louise-mair-profile.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left">
-[Louise Mair](_site/LMwebpage.html)
+[Louise Mair](LMwebpage.html)
 
 <img src= "images/jward.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
-[Jessica Ward](_site/jward_web.html)
+[Jessica Ward](jward_web.html)
 
