@@ -5,6 +5,8 @@ title: "Louise Mair"
 
 ## Research Associate
 
+<img src= "images/louise-mair-profile.jpg" style="width:30%; border:10px solid; margin-right: 20px" align= "left"> 
+
 **Research area**: Threatened species conservation and policy
 
 **Contact email**: louise.mair@ncl.ac.uk
