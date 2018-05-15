@@ -1,6 +1,5 @@
 ---
 title: "About us"
-
 ---
  
 # Group members 
