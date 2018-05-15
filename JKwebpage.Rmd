@@ -11,7 +11,7 @@ title: "James Kitson"
 
 **Contact email**: James.Kitson@ncl.ac.uk
 
-**Info**: My work focuses on developing and using molecular tools for the detection of species interactions such as parasitism, predation or pollenation. The aim is to generate well sampled ecological networks that can be used as a tool to predict the future effects of changing environmental pressures such climate change, invasive species or habitat loss on ecosystems.
+**Info**: My work focuses on developing and using molecular tools for the detection of species interactions such as parasitism, predation or pollination. The aim is to generate well sampled ecological networks that can be used as a tool to predict the future effects of changing environmental pressures such climate change, invasive species or habitat loss on ecosystems.
 
 **R**: My research is primarily a mixture of laboratory and field research but ultimately all my data gets analysed in R (and a bit of Python). I've used R for everything from plotting high quality figures and linear modelling through to processing sequencing data, phylogenetics and biogeographic analyses.
 
@@ -21,5 +21,3 @@ To find out more, check out my [university webpage](https://www.ncl.ac.uk/nes/st
 ***
 
 <center><img src= "images/Kitson_footer2.jpg" style="width:50%; border:10px solid; margin-right: 20px" align= "centre"></center>
-
-test test
