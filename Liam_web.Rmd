@@ -17,5 +17,5 @@ title: "Liam Butler"
 
 **Info**: My research looks at distribution of vegetation communities, developing generalisable methods to use pseudoquadrats as a supplementary or complimentary aid were vegetation survey data is limited. This will allow upscaling from small-scale to large-scale vegetation distribution, using the British National Vegetation Classification as a case study.  For reliable upscaling, abiotic factors, such as soil pH, hydrological networks and herbivore grazin will be used as precursors for trend study.
 
-To find out more about me you can visit [my website]
+To find out more about me you can visit [my website](www.linkedin.com/in/liam-butler-240591)
 
