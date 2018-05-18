@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -200,7 +202,7 @@ $(document).ready(function () {
 
 <div id="phd-student" class="section level2">
 <h2>PhD student</h2>
-<p><img src= "images/blank-profile-picture.jpg" style="width:30%; border:10px solid; margin-right: 20px" align= "left"></p>
+<p><img src= "images/Becca.JPG" style="width:30%; border:10px solid; margin-right: 20px" align= "left"></p>
 <p><strong>Project title</strong>: Room to roam and hotspots of conservation conflicts: lions, ungulates and people in the matrix</p>
 <p><strong>Project Supervisors</strong>: <a href="https://www.ncl.ac.uk/nes/staff/profile/marionpfeifer.html#publications">Dr Marion Pfeifer</a>, <a href="https://www.wildcru.org/members/dr-amy-dickman/">Dr Amy Dickman</a>, <a href="https://www.stir.ac.uk/people/18125">Prof Nils Bunnefeld</a></p>
 <p><strong>Contact</strong>: <a href="mailto:r.k.sargent2@ncl.ac.uk">r.k.sargent2@ncl.ac.uk</a>, <span class="citation">@RK_Sargent</span></p>
@@ -231,7 +233,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
