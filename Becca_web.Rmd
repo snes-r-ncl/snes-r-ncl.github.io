@@ -5,7 +5,7 @@ title: "Becca Sargent"
 
 ##PhD student
 
-<img src= "images/Becca.jpg" style="width:30%; border:10px solid; margin-right: 20px" align= "left"> 
+<img src= "images/blank-profile-picture.jpg" style="width:30%; border:10px solid; margin-right: 20px" align= "left"> 
 
 **Project title**: Room to roam and hotspots of conservation conflicts: lions, ungulates and people in the matrix
 
