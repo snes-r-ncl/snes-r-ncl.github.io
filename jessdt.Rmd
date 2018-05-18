@@ -1,0 +1,19 @@
+---
+title: "jessdt"
+author: "Jessica Duffill Telsnig"
+date: "5/18/2018"
+output: html_document
+---
+
+## PhD student
+
+<img src= "images/jessdt.jpg" style="width:30%; border:10px solid; margin-right: 20px" align= "left"> 
+
+**Project title**: Stable isotope analysis of benthic-pelagic coupling in North East Atlantic fishes
+
+
+**Project Supervisors**: [Prof N. Polunin](https://www.ncl.ac.uk/nes/staff/profile/nickpolunin.html#background), [Dr A. Mill](https://www.ncl.ac.uk/nes/staff/profile/aileenmill.html#research), [Prof S. Jennings](http://www.uea.ac.uk/environmental-sciences/people/profile/simon-jennings)
+
+**Contact email**: j.duffill-telsnig@ncl.ac.uk
+
+**Info**: My PhD investigated the extent to which shelf-sea fish species are affiliated with benthic and pelagic pathways across four UK seas (North, Celtic, Irish Sea and English Channel), what influences this and how this related to fluctuations in fish abundance. Studied drivers of benthic-pelagic coupling included consumer body mass and trophic level, and water depth, temperature and salinity. Factors influencing variability in species; abundances including benthic-pelagic coupling, life history characteristics and variability in fishing pressure, where also examined. Stable isotope analysis was used to reveal time- integrated species affiliations to the pathways. 
