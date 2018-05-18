@@ -25,4 +25,4 @@ All of our group current group members are listed here, click each members name 
 [Christina Skinner](cskinnerwebpage.html)
 
 <img src= "images/Liam.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
-[Christina Skinner](Liam_web.html)
+[Liam Butler](Liam_web.html)
