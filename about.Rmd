@@ -32,3 +32,6 @@ All of our group current group members are listed here, click each members name 
 
 <img src= "images/lbraunholtz.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Laura Braunholtz](lbraunholtz_web.html)
+
+<img src= "images/rike.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
+[Rike Bolam](rike_page.html)
