@@ -13,7 +13,7 @@ title: "Kirsty Lees"
 
 **Contact**: k.lees1@ncl.ac.uk, @[Scottish_bird](http://twitter.com/Scottish_Bird)
 
-**Info**: . I am analysing fine-scale acoustic telemetry data to better understand the behaviour and movement of European lobsters. My findings will help to improve the accuracy of European lobster abundance estimates, and provide useful insight to evidence-based fisheries, and marine policy makers.
+**Info**: I am analysing fine-scale acoustic telemetry data to better understand the behaviour and movement of European lobsters. My findings will help to improve the accuracy of European lobster abundance estimates, and provide useful insight to evidence-based fisheries, and marine policy makers.
 
 Currently I'm using R to analyse telemetry data, but I also have extensive experience of using it to clean and manipulate large datasets, analyse linear and additive mixed models, and make snazzy graphs.
 
