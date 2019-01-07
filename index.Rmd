@@ -3,7 +3,6 @@ title: "SNES R Group "
 
 ---
 
-<img src= "images/github-octocat-rninja.png" style="width:30%; border:10px solid; margin-right: 20px" align= "left">
 
 #Welcome to the SNES R Group website
 
