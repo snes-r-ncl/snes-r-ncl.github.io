@@ -1,7 +1,7 @@
-name: "R-ninjas"
+name: "SNES R Group"
 output_dir: "."
 navbar:
-  title: "R-ninjas"
+  title: "SNES R Group"
   left:
     - text: "Home"
       href: index.html
