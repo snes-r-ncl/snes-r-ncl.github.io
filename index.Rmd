@@ -1,12 +1,12 @@
 ---
-title: "R ninjas "
+title: "SNES R Group "
 
 ---
 
 <img src= "images/github-octocat-rninja.png" style="width:30%; border:10px solid; margin-right: 20px" align= "left">
 
-#Welcome to the Ncl R Ninjas website
+#Welcome to the SNES R Group website
 
-We are a group of PGR's and PDRA's in the School of Natural and Environmental Sciences at Newcastle University working together to improve our R skills with the ultimate goal of becoming R-ninjas!
+We are a group of PhD students and post-docs in the School of Natural and Environmental Sciences(SNES) at Newcastle University  who meet up regularly to improve our R coding skills (and a little bit of statistics too). Our aim is to provide a supportive learning environment in which we can learn from each other, no matter what level of R knowledge we have. 
 
 #[About us](about.html)
