@@ -10,4 +10,4 @@ We are a group of PhD students and post-docs in the School of Natural and Enviro
 
 #[About us](about.html)
 
-#[Spring 2019 Schedule](spring2019schedule.htlm)
+#[Spring 2019 Schedule](spring2019schedule.html)
