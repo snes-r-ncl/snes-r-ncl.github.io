@@ -1,0 +1,7 @@
+---
+title: "Spring 2019 Schedule"
+
+---
+
+<img src= "images/R-schedule.jpg" style="width:75%; border:2px solid; margin-right: 20px" align= "left"> 
+

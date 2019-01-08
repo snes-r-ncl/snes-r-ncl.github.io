@@ -9,3 +9,5 @@ title: "SNES R Group "
 We are a group of PhD students and post-docs in the School of Natural and Environmental Sciences(SNES) at Newcastle University  who meet up regularly to improve our R coding skills (and a little bit of statistics too). Our aim is to provide a supportive learning environment in which we can learn from each other, no matter what level of R knowledge we have. 
 
 #[About us](about.html)
+
+#[Spring 2019 Schedule](spring2019schedule.htlm)
