@@ -4,7 +4,11 @@ title: "About us"
  
 # Group members 
 
-All of our group current group members are listed here, click each members name to find out more about them
+Our group members are listed here, click each members name to find out more about them.
+
+### Convenors
+
+We have three group convenors, send us an email with any questions or to join our group mailing list. 
 
 <img src= "images/rike.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Rike Bolam](rike_page.html)
@@ -15,11 +19,7 @@ All of our group current group members are listed here, click each members name 
 <img src= "images/jward.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Jessica Ward](jward_web.html)
 
-<img src= "images/cskinner.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
-[Christina Skinner](cskinnerwebpage.html)
-
-<img src= "images/Becca.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
-[Becca Sargent](Becca_web.html)
+### Current members
 
 <img src= "images/lbraunholtz.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Laura Braunholtz](lbraunholtz_web.html)
@@ -27,18 +27,22 @@ All of our group current group members are listed here, click each members name 
 <img src= "images/Liam.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Liam Butler](Liam_web.html)
 
+<img src= "images/James_Kitson_profile.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
+[James Kitson](JKwebpage.html)
+
+<img src= "images/WiS_Ellen3.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left">
+[Ellen D. Moss](EMoss_web.html)
+
+<img src= "images/Becca.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
+[Becca Sargent](Becca_web.html)
+
+<img src= "images/cskinner.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
+[Christina Skinner](cskinnerwebpage.html)
+
+### Past members
+
 <img src= "images/KIRSTY.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Kirsty Lees](kirsty_page.html)
 
 <img src= "images/jessdt.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
 [Jessica Duffill Telsnig](jessdt.html)
-
-<img src= "images/WiS_Ellen3.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left">
-[Ellen D. Moss](EMoss_web.html)
-
-<img src= "images/James_Kitson_profile.jpg" style="width:20%; border:10px solid; margin-right: 40px" float="left"> 
-[James Kitson](JKwebpage.html)
-
-
-
-
