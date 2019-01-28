@@ -1,6 +1,5 @@
 ---
-title: "SNES R Group "
-
+title: 'SNES R Group '
 ---
 
 
