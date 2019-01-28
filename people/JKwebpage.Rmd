@@ -1,0 +1,45 @@
+---
+title: "James Kitson"
+
+---
+
+## Research Associate
+
+<a href="images/James_Kitson_profile.jpg"><img src= "images/James_Kitson_profile.jpg" style="width:30%; border:2px solid; margin-right: 20px" align= "left"></a>
+
+**Research area**: Detecting species interactions and forest food webs
+
+**Contact email**: James.Kitson@ncl.ac.uk
+
+**Info**: My work focuses on developing and using molecular tools for the detection of species interactions such as parasitism, predation or pollination. The aim is to generate well sampled ecological networks that can be used as a tool to predict the future effects of changing environmental pressures such climate change, invasive species or habitat loss on ecosystems.
+
+**R**: My research is primarily a mixture of laboratory and field research but ultimately all my data gets analysed in R (and a bit of Python). I've used R for everything from plotting high quality figures and linear modelling through to processing sequencing data, phylogenetics and biogeographic analyses.
+
+To find out more, check out my [university webpage](https://www.ncl.ac.uk/nes/staff/profile/jameskitson.html#background) or [google scholar](https://scholar.google.co.uk/citations?user=qOgUVEQAAAAJ&hl=en) page.  
+<br>
+
+***
+<br>
+
+## Examples of R plots
+<a href="images/JK_images/Clustering_contours_filtered_data.png"><a href="images/JK_images/Cratopus.jpg"><img src= "images/JK_images/Clustering_contours_filtered_data.png" style="width:50%; border:2px solid; margin-right: 20px"></a>
+<br>
+
+<a href="images/JK_images/contamination_distribution.png"><img src= "images/JK_images/contamination_distribution.png" style="width:50%; border:2px solid; margin-right: 20px"></a>
+<br>
+
+<a href="images/JK_images/oak_hiveplot.png"><img src= "images/JK_images/oak_hiveplot.png" style="width:50%; border:2px solid; margin-right: 20px"></a>
+<br>
+
+<a href="images/JK_images/well_composition_reads_by_plate_edited_by_JK2.png"><img src= "images/JK_images/well_composition_reads_by_plate_edited_by_JK2.png" style="width:50%; border:2px solid; margin-right: 20px"></a>
+<br>
+
+## Fieldwork photos
+<a href="images/JK_images/Cratopus.jpg"><a href="images/JK_images/Cratopus.jpg"><img src= "images/JK_images/Cratopus.jpg" style="width:50%; border:2px solid; margin-right: 20px"></a>  
+Part of my work centres on the biogeography of a group of beetles endemic to the islands of the Indian Ocean that belong to the genus _Cratopus_.
+
+<a href="images/JK_images/OPM_fieldwork.jpg"><img src= "images/JK_images/OPM_fieldwork.jpg" style="width:50%; border:2px solid; margin-right: 20px"></a>  
+Working with OPM ( _Thaumetopoea processionea_ ) invloves a lot of biohazard gear to pretect against the hairs.
+
+<a href="images/JK_images/OPM_procession.jpg"><img src= "images/JK_images/OPM_procession.jpg" style="width:50%; border:2px solid; margin-right: 20px"></a>  
+An OPM ( _Thaumetopoea processionea_ ) procession.
