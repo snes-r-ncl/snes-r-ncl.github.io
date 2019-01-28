@@ -1,6 +1,5 @@
 ---
 title: "Spring 2019 Schedule"
-
 ---
 
 <img src= "images/R_schedule_9Jan19.jpg" style="width:75%; border:2px solid; margin-right: 20px" align= "left"> 
@@ -10,3 +9,4 @@ title: "Spring 2019 Schedule"
 [Tidyverse workshop](tutorials/tidyverse_tutorial.html)
 
 [ggplot workshop](tutorials/ggplot_workshop.html)
+
